@@ -1,4 +1,5 @@
-var myProductName = "xmlrpc"; myVersion = "0.4.26"; 
+var myProductName = "xmlrpc"; 
+var myVersion = "0.4.26"; 
 
 exports.client = xmlRpcClient;
 exports.server = xmlRpcServer; 
